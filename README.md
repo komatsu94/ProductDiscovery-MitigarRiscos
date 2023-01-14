@@ -5,7 +5,7 @@ So I'll try to make a how-to/ guide about Risk Mitigation method.
 
 ## Risk Mitigation? What is that? And how would that help me find new products?
 
-That's a good question! I'm taking a course about Product Manager at Alura and when I take that class I thought about it too! But I think it's pretty cool, let me tell you!
+That's a good question! I'm taking a course about Product Manager at Alura and when I took that class I thought about it too! But I think it's pretty cool, let me tell you!
 Before releasing a new product on the market, investing money and other resources, we need to know if this product is the right one. 
 And there's 4 risks about our product that we must to mitigate!
 - Value;
